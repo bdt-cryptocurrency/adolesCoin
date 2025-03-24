@@ -1,0 +1,18 @@
+{
+  "name": "AdolesCoin",
+  "symbol": "ADLC",
+  "description": "I'm sorry son, I should've done better.\n\nAdolesCoin is a fan-created token celebrating the spirit of Adolescence. This project is an independent fan tribute and is not affiliated with, endorsed by, or officially connected to Netflix or the creators of Adolescence. All intellectual property rights belong to their respective owners.",
+  "image": "https://github.com/bdt-cryptocurrency/adolesCoin/blob/main/ads_image.png?raw=true",
+  "external_url": "",
+  "attributes": [
+    {
+      "trait_type": "Theme",
+      "value": "Fan Tribute"
+    },
+    {
+      "trait_type": "Edition",
+      "value": "Limited"
+    }
+  ],
+  "disclaimer": "This token is a parody/fan project. It is intended solely as a creative tribute and is not meant to mislead or confuse fans into thinking it is an official product. The creators assume no liability for intellectual property claims. Use at your own risk."
+}
